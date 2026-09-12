@@ -1,0 +1,23 @@
+7 6
+BCN
+VLC
+MAD
+SEV
+ALC
+CDT
+ZAZ
+BCN -> VLC
+VLC -> MAD
+MAD -> BCN
+ZAZ -> SEV
+SEV -> CDT
+CDT -> ZAZ
+2 0
+VLC
+MAD
+2 2
+VLC
+MAD
+MAD -> VLC
+VLC -> MAD
+0 0

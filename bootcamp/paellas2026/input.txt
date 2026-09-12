@@ -1,0 +1,8 @@
+5 7
+Ruben Cux 10
+Cux Laije 5
+Laije Chema 12
+Chema Hao 8
+Ruben Hao 50
+Ruben Chema 30
+Laije Hao 15

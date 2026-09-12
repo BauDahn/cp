@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C++: Debug Current File",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}", // Ejecutable en la misma carpeta del archivo
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}", // IMPORTANTE: El debugger "vive" donde esté el main.cpp
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Habilitar impresión bonita",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C++: Compilar", // Debe coincidir con el label en tasks.json
+            "miDebuggerPath": "/usr/bin/gdb"
+        },
+        {
+            "name": "Python: Debug Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}", // Ejecuta el archivo de la pestaña activa
+            "console": "integratedTerminal",
+            "cwd": "${fileDirname}",
+            "args": ["<", "input.txt"]
+        }
+    ]
+}

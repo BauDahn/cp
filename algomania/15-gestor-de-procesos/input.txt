@@ -1,0 +1,21 @@
+20
++ bash 1
++ vlc 3
++ wireshark 3
++ konsole 2
+-
+-
+-
+-
+-
++ algomania 9
++ filezilla 4
++ signal 4
++ cpeditor 3
+-
++ discord 7
+-
+-
+-
+-
+-
