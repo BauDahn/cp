@@ -14,7 +14,7 @@ My solutions to competitive programming problems, organized by platform. The rep
 | [`usaco/`](usaco) | Problems from the USACO Guide: flood fill, trees, greedy with sorting, priority queues |
 | [`leetcode/`](leetcode) | Backtracking, DP and data structures (N-Queens, subsets, histograms, etc.) |
 | [`AceptaElReto/`](AceptaElReto) | Problems from [Acepta el Reto](https://aceptaelreto.com) |
-| [`algomania/`](algomania) | Problems from the Algomanía contests (judge created by Daniel) |
+| [`algomania/`](algomania) | Problems from the Algomanía contests (internal UPV judge created by Daniel Villena) |
 | [`bootcamp/`](bootcamp) | Material from the CP-UPV bootcamp and team contests (Paellas 2024, 2025, 2026) |
 | [`contest_informatica/`](contest_informatica), [`serafim_contest/`](serafim_contest), [`adabyron/`](adabyron) | Computer science contests and internal UPV contests |
 | [`online_judge/`](online_judge), [`timus-online-judge/`](timus-online-judge) | UVa Online Judge and Timus |
