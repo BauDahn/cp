@@ -1,1 +1,8 @@
 .venv/
+
+# Binarios compilados
+main
+
+# Archivos temporales
+varios/tmp.py
+varios/input.txt
