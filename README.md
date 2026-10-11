@@ -2,7 +2,7 @@
 
 My solutions to competitive programming problems, organized by platform. The repository reflects steady practice: Codeforces and AtCoder contests, the CSES problem set, USACO training, and Spanish online judges such as Acepta el Reto.
 
-**Languages:** C++ (main, ~160 solutions) · Python (~100) · a bit of Java
+**Languages:** C++ (main, ~160 solutions) · Python (~100)
 
 ## Contents
 
